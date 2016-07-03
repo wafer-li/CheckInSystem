@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="CheckInSystem:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="CheckInSystem.war">
-      <element id="artifact" artifact-name="CheckInSystem:war exploded" />
-    </root>
-  </artifact>
-</component>
